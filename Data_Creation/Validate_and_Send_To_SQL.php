@@ -24,8 +24,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             isset($_POST["Book_Year"]) &&
             isset($_POST["Book_price"])
     ) {
-        $Book_Name = $_POST["Book_Name"];
-        $Author_Name = $_POST["Author_Name"];
+        $Book_Name = iconv('Windows-1255', 'UTF-8', $_POST["Book_Name"]);
+        $Author_Name = iconv('Windows-1255', 'UTF-8', $_POST["Author_Name"]);
         $Book_img_url = $_POST["Book_img_url"];
         $Book_Year = $_POST["Book_Year"];
         $Book_price = $_POST["Book_price"];
