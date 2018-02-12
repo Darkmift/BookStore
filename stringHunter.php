@@ -9,11 +9,14 @@
 
 <?php
 
-$subject = file_get_contents('strinSteim.txt');
+$steimatzky = file_get_contents('strinSteim.txt');
 $pattern = "/steim.amazingcdn.space\/catalog\/product\/cache\/1\/image\/300x\/9df78eab33525d08d6e5fb8d27136e95\/0\/1\/[\w%+\/-]+?.jpg/";
 //preg_match_all("/\/steim.amazingcdn.space\/catalog\/product\/cache\/1\/image\/300x\/9df78eab33525d08d6e5fb8d27136e95\/0\/1\/[\w%+\/-]+?.jpg/", $subject, $matches);
 //preg_match($pattern, substr($subject, 3), $matches, PREG_OFFSET_CAPTURE);
 //print_r($matches[0]);
-preg_match_all($pattern, $subject, $matches);
-print_r($matches);
+preg_match_all($pattern, $steimatzky, $matches);
+//print_r($matches);
+foreach ($matches[0] as $key => $value) {
+    echo '<img src=https://' . $value . '><hr>';
+}
 ?>
