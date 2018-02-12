@@ -1,0 +1,4709 @@
+﻿
+<!DOCTYPE html>
+<!--[if IE 7]><html lang="he" class="ie ie7" id="top"><![endif]-->
+<!--[if IE 8]><html lang="he" class="ie ie8" id="top"><![endif]-->
+<!--[if IE 9]><html lang="he" class="ie ie9" id="top"><![endif]-->
+<!--[if !IE]><!--><html lang="he" id="top" class="no-js"><!--<![endif]-->
+
+<head>
+    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>ספרים זה סטימצקי | ספרים באינטרנט קונים באתר סטימצקי</title>
+<meta name="description" content="ספרים באינטרנט זה סטימצקי. אתר הספרים הגדול בישראל- כל הספרים שאתם אוהבים מחכים לכם במקום אחד במרחק לחיצת כפתור: ספרים במבצע, רבי המכר, ספרי ילדים, עיתונים, מוסיקה , סרטים, ספרי סיפורת ועוד"/>
+<meta name="keywords" content="סטימצקי, stematsky, steimatzky, ספרים"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<link rel="icon" href="https://steim.amazingcdn.space/favicon/default/favi.png" type="image/x-icon"/>
+<link rel="shortcut icon" href="https://steim.amazingcdn.space/favicon/default/favi.png" type="image/x-icon"/>
+
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+	//<![CDATA[
+    var BLANK_URL = 'https://www.steimatzky.co.il/js/blank.html';
+    var BLANK_IMG = 'https://www.steimatzky.co.il/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<script>
+	window.locale = {"ok":"OK","cancel":"\u05d1\u05d8\u05dc","account_not_acctivated_yet":"\u05d7\u05e9\u05d1\u05d5\u05df \u05d6\u05d4 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d5\u05e4\u05e2\u05dc \u05e2\u05d3\u05d9\u05d9\u05df.","club_member_added_notice":"\u05db\u05e8\u05d8\u05d9\u05e1 \u05d4\u05d7\u05d1\u05e8 \u05d4\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05e2\u05d2\u05dc\u05ea \u05d4\u05e7\u05e0\u05d9\u05d5\u05ea \u05e9\u05dc\u05da, \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d4\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05d4\u05e6\u05d8\u05e8\u05e4\u05d5\u05ea \u05dc\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d4\u05d7\u05d1\u05e8\u05d9\u05dd \u05e9\u05dc \u05e1\u05d8\u05d9\u05de\u05e6\u05e7\u05d9 \u05d9\u05e9 \u05dc\u05e1\u05d9\u05d9\u05dd \u05d0\u05ea \u05ea\u05d4\u05dc\u05d9\u05da \u05d4\u05ea\u05e9\u05dc\u05d5\u05dd","club_member_extended_notice":"\u05d7\u05d9\u05d3\u05d5\u05e9 \u05d7\u05d1\u05e8\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d4\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05e1\u05dc \u05e9\u05dc\u05da. \u05d9\u05e9 \u05dc\u05d4\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05e8\u05db\u05d9\u05e9\u05d4 \u05e2\u05dc \u05de\u05e0\u05ea \u05e9\u05d4\u05d7\u05d9\u05d3\u05d5\u05e9 \u05d9\u05db\u05e0\u05e1 \u05dc\u05ea\u05d5\u05e7\u05e3","club_member_added_title":"\u05ea\u05d5\u05d3\u05d4!","check_your_mail_notice":"\u05d0\u05e0\u05d0 \u05d1\u05d3\u05d5\u05e7 \u05d0\u05ea \u05d4\u05de\u05d9\u05d9\u05dc","register_ok_notice":"\u05d4\u05d4\u05e8\u05e9\u05de\u05d4 \u05d1\u05d5\u05e6\u05e2\u05d4 \u05d1\u05d4\u05e6\u05dc\u05d7\u05d4","login_with_your_details_notice":"\u05d4\u05ea\u05d7\u05d1\u05e8 \u05e2\u05dd \u05d4\u05e4\u05e8\u05d8\u05d9\u05dd \u05dc\u05d0\u05ea\u05e8","extend_club_membership":"\u05d4\u05d0\u05e8\u05db\u05ea \u05d7\u05d1\u05e8\u05d5\u05ea \u05de\u05d5\u05e2\u05d3\u05d5\u05df","validate_non_digits_alert":"\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e1\u05e4\u05e8\u05d5\u05ea","validate_mobile_alert":"\u05d8\u05dc\u05e4\u05d5\u05df \u05e0\u05d9\u05d9\u05d3 \u05d0\u05d9\u05e0\u05d5 \u05ea\u05e7\u05d9\u05df","locate_near_braches_pop_title":"\u05d0\u05d9\u05ea\u05d5\u05e8 \u05e1\u05e0\u05d9\u05e3 \u05e7\u05e8\u05d5\u05d1","locate_near_braches_pop_notice":"\u05e0\u05d0 \u05d0\u05d9\u05e9\u05d5\u05e8\u05da \u05dc\u05e9\u05d9\u05ea\u05d5\u05e3 \u05de\u05d9\u05e7\u05d5\u05de\u05da \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d0\u05ea\u05e8 \u05d0\u05ea \u05d4\u05e1\u05e0\u05d9\u05e3 \u05d4\u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05da","locate_near_braches_pop_ok":"\u05e9\u05ea\u05e3 \u05de\u05d9\u05e7\u05d5\u05dd","locate_near_braches_pop_cancel":"\u05dc\u05d0 \u05ea\u05d5\u05d3\u05d4","add_to_cart":"\u05e6\u05e4\u05d4 \u05d1\u05e1\u05dc","validate_password2":"\u05d4\u05e1\u05d9\u05e1\u05de\u05d0 \u05d7\u05d9\u05d9\u05d1\u05ea \u05dc\u05d4\u05d9\u05d5\u05ea \u05d1\u05d0\u05d5\u05e8\u05da \u05e9\u05dc \u05dc\u05e4\u05d7\u05d5\u05ea 6 \u05ea\u05d5\u05d9\u05dd","verification_flow_error":"\u05d7\u05d5\u05d1\u05d4 \u05dc\u05de\u05dc\u05d0 \u05dc\u05e4\u05d7\u05d5\u05ea \u05d0\u05d7\u05d3 \u05de\u05d4\u05e9\u05d3\u05d5\u05ea","old_browser_notice":"\u05d0\u05e0\u05d5 \u05de\u05ea\u05e0\u05e6\u05dc\u05d9\u05dd \u05d0\u05da \u05d4\u05d3\u05e4\u05d3\u05e4\u05df \u05e9\u05d1\u05e8\u05e9\u05d5\u05ea\u05da <strong>\u05de\u05d9\u05d5\u05e9\u05df <\/strong> \u05d5\u05d0\u05d9\u05e0\u05d5 \u05ea\u05d5\u05de\u05da \u05d1\u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d5\u05ea \u05de\u05ea\u05e7\u05d3\u05de\u05d5\u05ea \u05d1\u05d4\u05df \u05d1\u05e0\u05d5\u05d9 \u05d4\u05d0\u05ea\u05e8 \u05e9\u05dc\u05e0\u05d5. <br \/>\u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d5\u05e8\u05d9\u05d3 \u05d1\u05d7\u05d9\u05e0\u05dd \u05d2\u05e8\u05e1\u05d4 \u05de\u05e2\u05d5\u05d3\u05db\u05e0\u05ea \u05dc\u05d3\u05e4\u05d3\u05e4\u05df \u05d4\u05de\u05d5\u05e2\u05d3\u05e3 \u05e2\u05dc\u05d9\u05da <a href='http:\/\/browsehappy.com\/'> \u05d1\u05dc\u05d7\u05d9\u05e6\u05d4 \u05db\u05d0\u05df<\/a>","resend_sms_notice":"\u05e9\u05dc\u05d7\u05e0\u05d5 \u05dc\u05da \u05e9\u05d5\u05d1 \u05e7\u05d5\u05d3 \u05d1\u05e1\u05de\u05e1 \u05dc\u05de\u05e1\u05e4\u05e8 \u05d4\u05d8\u05dc\u05e4\u05d5\u05df \u05e9\u05d4\u05d5\u05d6\u05df.  \u05d0\u05e0\u05d0 \u05d1\u05d3\u05d5\u05e7 \u05d5\u05d4\u05e7\u05dc\u05d3 \u05d0\u05d5\u05ea\u05d5","facebook_register_verify":"\u05d7\u05d1\u05e8 \u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05e1\u05d8\u05d9\u05de\u05e6\u05e7\u05d9? \u05d4\u05e8\u05e9\u05dd \u05d3\u05e8\u05da \u05d8\u05d5\u05e4\u05e1 \u05d4\u05d4\u05e8\u05e9\u05de\u05d4 \u05d4\u05e8\u05d2\u05d9\u05dc \u05e2\u05dc \u05de\u05e0\u05ea \u05e9\u05e0\u05d5\u05db\u05dc \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05d5\u05ea\u05da","login_join":"\u05d4\u05ea\u05d7\u05d1\u05e8\u05d5\u05ea | \u05d4\u05e6\u05d8\u05e8\u05e4\u05d5\u05ea","continue_anyway":"\u05d4\u05de\u05e9\u05da \u05d1\u05db\u05dc \u05d6\u05d0\u05ea","back_to_register":"\u05d7\u05d6\u05d5\u05e8 \u05dc\u05d4\u05e8\u05e9\u05de\u05d4","view_all_prds":"\u05e6\u05e4\u05d9\u05d9\u05d4 \u05d1\u05db\u05dc \u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd"}</script>
+
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+<script>
+	window.console = {
+		log  : function () {},
+		error: function () {},
+		debug: function () {},
+		warn : function () {},
+		info : function () {},
+		dir  : function () {},
+		trace: function () {}
+	}
+</script>
+<script>$j = jQuery.noConflict()</script>
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/styles.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/base/default/css/widgets.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/ac.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/normalize.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/bootstrap.min.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/bootstrap-rtl.min.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/jquery-ui.min.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/slick.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/slick-theme.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/alertify.rtl.min.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/alertify-default.rtl.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/all.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/base/default/tm/easybanner/css/easybanner.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/rwd/default/css/bubble/elasticsearch.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/base/default/css/mageplaza_betterblog/style.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/steimazki/default/css/magestore/mobilelibrary.css?v=1518360787" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/base/default/css/magestore/giftvoucher.css?v=1518360787" media="all" />
+<script type="text/javascript" src="https://www.steimatzky.co.il/js//magestore/giftvoucher/jquery-1.11.2.min.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/prototype/prototype.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/lib/ccard.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/prototype/validation.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/scriptaculous/builder.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/scriptaculous/effects.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/scriptaculous/dragdrop.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/scriptaculous/controls.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/scriptaculous/slider.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/varien/js.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/varien/form.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/varien/menu.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/mage/translate.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/mage/cookies.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/iwd/all/iwd-jquery-2.1.3.min.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/iwd/all/modal.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/magestore/giftvoucher/giftvoucher.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/bootstrap.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/alertify.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/slick.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/jquery.cycle2.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/jquery-ui.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/jquery.ui.touch-punch.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/modernizr-2.8.3.min.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/clientDetect.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/main.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/js/events.js?v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/base/default/tm/easybanner/js/easybanner.js?v=1518360787"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.steimatzky.co.il/skin/frontend/base/default/css/styles-ie.css?v=1518360787" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.steimatzky.co.il/js/lib/ds-sleight.js?v=1518360787&v=1518360787"></script>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/base/default/js/ie6.js?v=1518360787"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.steimatzky.co.il';
+//]]>
+</script>
+            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            
+ga('create', 'UA-3647878-1', 'auto');
+
+ga('send', 'pageview');
+            
+        //]]>
+        </script>
+        <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <!-- CMS page canonical link tag added by CreareSEO -->
+<link rel="canonical" href="https://www.steimatzky.co.il/" /><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Please select an option.":"\u05d0\u05e0\u05d0 \u05d1\u05d7\u05e8 \u05d0\u05e4\u05e9\u05e8\u05d5\u05ea.","This is a required field.":"\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05d4\u05d9\u05e0\u05d5 \u05d7\u05d5\u05d1\u05d4.","Please enter a valid number in this field.":"\u05d1\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05d9\u05e9 \u05dc\u05d4\u05e7\u05dc\u05d9\u05d3 \u05de\u05e1\u05e4\u05e8 \u05d7\u05d5\u05e7\u05d9.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"\u05d0\u05e0\u05d0 \u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e1\u05e4\u05e8\u05d5\u05ea (0-9) \u05d1\u05dc\u05d1\u05d3.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"\u05d0\u05e0\u05d0 \u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e1\u05e4\u05e8\u05d5\u05ea (0-9), \u05d0\u05d5\u05ea\u05d9\u05d5\u05ea (\u05d0-\u05ea, a-z), \u05d0\u05d5 \u05e7\u05d5 \u05ea\u05d7\u05ea\u05d5\u05df (_) , \u05d1\u05e9\u05d3\u05d4 \u05d6\u05d4. \u05ea\u05d5 \u05e8\u05d0\u05e9\u05d5\u05df \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05d0\u05d5\u05ea.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"\u05d0\u05e0\u05d0 \u05d4\u05e7\u05dc\u05d3 \u05de\u05e1\u05e4\u05e8 \u05d8\u05dc\u05e4\u05d5\u05df \u05ea\u05e7\u05e0\u05d9, \u05dc\u05d3\u05d5\u05d2\u05de\u05d0: (123) 456-7890 \u05d0\u05d5 123-456-7890","Please enter a valid date.":"\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05ea\u05d0\u05e8\u05d9\u05da \u05d7\u05d5\u05e7\u05d9.","Please enter a valid email address. For example johndoe@domain.com.":"\u05e0\u05e8\u05d0\u05d4 \u05e9\u05e0\u05e4\u05dc\u05d4 \u05d8\u05e2\u05d5\u05ea \u05d1\u05db\u05ea\u05d5\u05d1\u05ea \u05d4\u05d3\u05d5\u05d0\"\u05dc. \u05d0\u05e0\u05d0 \u05d1\u05d3\u05e7\u05d5 \u05d5\u05e0\u05e1\u05d5 \u05e9\u05d5\u05d1","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"\u05e0\u05e8\u05d0\u05d4 \u05e9\u05e0\u05e4\u05dc\u05d4 \u05d8\u05e2\u05d5\u05ea \u05d1\u05d4\u05e7\u05e9\u05ea \u05d4\u05e1\u05d9\u05e1\u05de\u05d4 . \u05d0\u05e0\u05d0 \u05d1\u05d3\u05e7\u05d5 \u05d5\u05e0\u05e1\u05d5 \u05e9\u05d5\u05d1.","Please make sure your passwords match.":"\u05e0\u05e8\u05d0\u05d4 \u05e9\u05d4\u05e1\u05d9\u05e1\u05de\u05d4 \u05e9\u05d4\u05d5\u05e7\u05dc\u05d3\u05d4 \u05dc\u05d0 \u05ea\u05d5\u05d0\u05de\u05ea . \u05e0\u05e1\u05d5 \u05e9\u05d5\u05d1 \u05d1\u05d1\u05e7\u05e9\u05d4","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"\u05d0\u05e0\u05d0 \u05d4\u05e7\u05dc\u05d3 \u05db\u05ea\u05d5\u05d1\u05ea \u05d7\u05d5\u05e7\u05d9\u05ea, \u05dc\u05d3\u05d5\u05d2\u05de\u05d0: http:\/\/www.example.com or www.example.com","Please enter a valid social security number. For example 123-45-6789.":"\u05d0\u05e0\u05d0 \u05d4\u05e7\u05dc\u05d3 \u05de\u05e1\u05e4\u05e8 \u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9\/\u05ea.\u05d6. \u05ea\u05e7\u05e0\u05d9, \u05dc\u05d3\u05d5\u05d2\u05de\u05d0: 123456789","Please enter a valid zip code. For example 90602 or 90602-1234.":"\u05d0\u05e0\u05d0 \u05e6\u05d9\u05d9\u05df \u05de\u05d9\u05e7\u05d5\u05d3. \u05dc\u05d3\u05d5\u05d2\u05de\u05d0 69020","Please enter a valid zip code.":"\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05de\u05d9\u05e7\u05d5\u05d3 \u05ea\u05e7\u05d9\u05df.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"\u05d0\u05e0\u05d0 \u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e4\u05d5\u05e8\u05de\u05d8 \u05ea\u05d0\u05e8\u05d9\u05da \u05de\u05e1\u05d5\u05d2 dd\/mm\/yyyy, \u05dc\u05d3\u05d5\u05d2\u05de\u05d0: 17\/03\/2006 \u05e2\u05d1\u05d5\u05e8 \u05d4- 17 \u05dc\u05de\u05e8\u05e5, 2006.","Please enter a valid $ amount. For example $100.00.":"\u05d1\u05d1\u05e7\u05e9\u05d4 \u05d4\u05db\u05e0\u05e1 \u05e1\u05db\u05d5\u05dd \u05ea\u05e7\u05d9\u05df \u05dc\u05d3\u05d5\u05d2\u05de\u05d0 $100.00.","Please select one of the above options.":"\u05d0\u05e0\u05d0 \u05d1\u05d7\u05e8 \u05d0\u05d7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05d9\u05d5\u05ea \u05dc\u05e2\u05d9\u05dc.","Please select one of the options.":"\u05d0\u05e0\u05d0 \u05d1\u05d7\u05e8 \u05d0\u05d7\u05ea \u05d4\u05d0\u05e4\u05e9\u05e8\u05d5\u05d9\u05d5\u05ea.","Please select State\/Province.":"\u05d0\u05e0\u05d0 \u05d1\u05d7\u05e8 \u05de\u05d3\u05d9\u05e0\u05d4\/\u05d0\u05d6\u05d5\u05e8.","Please enter a number greater than 0 in this field.":"\u05d1\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05d9\u05e9 \u05dc\u05d4\u05e7\u05dc\u05d9\u05d3 \u05de\u05e1\u05e4\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc \u05de-0","Please enter a valid credit card number.":"\u05d0\u05e0\u05d0 \u05d4\u05db\u05e0\u05e1 \u05de\u05e1\u05e4\u05e8 \u05db\u05e8\u05d8\u05d9\u05e1 \u05d0\u05e9\u05e8\u05d0\u05d9 \u05ea\u05e7\u05d9\u05df.","Text length does not satisfy specified text range.":"\u05d4\u05d8\u05dc\u05e4\u05d5\u05df \u05d4\u05e0\u05d9\u05d9\u05d3 \u05d7\u05d9\u05d9\u05d1 \u05dc\u05d4\u05db\u05d9\u05dc \u05d1\u05d9\u05df 10 \u05dc-12 \u05de\u05e1\u05e4\u05e8\u05d9\u05dd","Please wait, loading...":"\u05d0\u05e0\u05d0 \u05d4\u05de\u05ea\u05df, \u05d8\u05d5\u05e2\u05df...","Complete":"\u05d4\u05d5\u05e9\u05dc\u05dd","Add Products":"\u05d4\u05d5\u05e1\u05e3 \u05de\u05d5\u05e6\u05e8\u05d9\u05dd","Please specify shipping method.":"\u05d0\u05e0\u05d0 \u05e6\u05d9\u05d9\u05df \u05e9\u05d9\u05d8\u05ea \u05e9\u05d9\u05dc\u05d5\u05d7.","Please specify payment method.":"\u05d0\u05e0\u05d0 \u05e6\u05d9\u05d9\u05df \u05e9\u05d9\u05d8\u05ea \u05ea\u05e9\u05dc\u05d5\u05dd.","Add to Cart":"\u05d4\u05d5\u05e1\u05e3 \u05dc\u05e1\u05dc","In Stock":"\u05d1\u05de\u05dc\u05d0\u05d9","Out of Stock":"\u05d7\u05e1\u05e8 \u05d1\u05de\u05dc\u05d0\u05d9"});
+        //]]></script><!-- Facebook Pixel Code -->
+<script>
+	!function (f, b, e, v, n, t, s) {
+		if (f.fbq) {
+			return
+		}
+		n = f.fbq = function () {
+			n.callMethod ?
+				n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+		}
+		if (!f._fbq) {
+			f._fbq = n
+		}
+		n.push = n
+		n.loaded = !0
+		n.version = '2.0'
+		n.queue = []
+		t = b.createElement(e)
+		t.async = !0
+		t.src = v
+		s = b.getElementsByTagName(e)[0]
+		s.parentNode.insertBefore(t, s)
+	}(window, document, 'script',
+		'https://connect.facebook.net/en_US/fbevents.js')
+	fbq('init', '587132044773163')
+	fbq('track', 'PageView')
+</script>
+<noscript>
+	<img height="1" width="1" src="https://www.facebook.com/tr?id=587132044773163&ev=PageView
+&noscript=1"/>
+</noscript><!-- End Facebook Pixel Code -->
+<!-- Hotjar Tracking Code for https://www.steimatzky.co.il/ -->
+<script>
+	(function (h, o, t, j, a, r) {
+		h.hj = h.hj || function () {(h.hj.q = h.hj.q || []).push(arguments)}
+		h._hjSettings = {hjid: 436608, hjsv: 5}
+		a = o.getElementsByTagName('head')[0]
+		r = o.createElement('script')
+		r.async = 1
+		r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv
+		a.appendChild(r)
+	})(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=')
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '133881127391758');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=133881127391758&ev=PageView&noscript=1"
+    /></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+</head>
+<body class=" cms-index-index">
+<div id="fb-root"></div>
+<!--[if lt IE 8]>
+<div class="browserupgrade">
+    <img style="margin: 0 0 15px 0" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/logo.png" alt=""/>
+    <p>
+    אנו מתנצלים אך הדפדפן שברשותך <strong>מיושן </strong> ואינו תומך בטכנולוגיות מתקדמות בהן בנוי האתר שלנו. <br />ניתן להוריד בחינם גרסה מעודכנת לדפדפן המועדף עליך <a href='http://browsehappy.com/'> בלחיצה כאן</a></p>
+</div>
+<![endif]-->
+
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if(d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/he_IL/sdk.js#xfbml=1&version=v2.3&appId=1278240555537038";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<nav id="apam-toolbar-wrap" data-fontsizer-include="" data-fontsizer-exclude="" style="display: none">
+    <button id="apam-toggle-toolbar" onclick="access.togglePanel(true)" aria-label="open accessibility toolbar">
+        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/Wheelchair_symbol.svg" alt="">
+    </button>
+    <div id="apam-toolbar">
+        <div id="apam_header">
+            <h2 aria-label="accessibility toolbar" >נגישות</h2>
+            <button id="apam-toolbar-close" onclick="access.togglePanel(false)"  aria-label="close accessibility toolbar">
+                <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/close.svg" alt="">
+            </button>
+        </div>
+        <div id="apam_body">
+            <div id="apam_bodyTopBns">
+                <div class="flachbg"></div>
+                <!--   <div class="disabled amap_row">
+                  <button  id="apam-screenreader"   class="apam_underdevelopment" data-name="screenreader" data-selected="false">
+                            <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/keyboard.svg" alt="">
+                            <span>ניווט מקלדת</span>
+                        </button>
+                    </div>
+                <div class=" amap_row">
+                    <button aria-checked="false" aria-label="using screen reader and keybord" id="apam-keyboard" onclick="access.keyboardNav()"  class="" data-name="keyboard" data-selected="false">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/screenReader.svg" alt="">
+                        <span>התאמה לקורא מסך</span>
+                    </button>
+                </div>-->
+                <div class="amap_row">
+                    <button id="apam-animation" aria-checked="false" aria-label="disable animation" onclick="access.disableAnimation()" class=""
+                            data-name="animation" data-selected="false">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/animations.svg" alt="">
+                        <span>ביטול הבהובים</span>
+                    </button>
+                </div>
+            </div>
+            <div id="apam_mainBtns">
+                <div id="apam-toolbar-contrast" class="amap_row amap_row3">
+                    <button id="apam-contrast-mono" class="" data-type="mono" data-selected="false"
+                            onclick="access.setContrast('mono')">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/monochrome.png" alt="">
+                            <span>
+מונוכרום
+                            </span>
+                    </button>
+                    <button id="apam-contrast-dark" class="" data-type="dark" data-selected="false"
+                            onclick="access.setContrast('dark')">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/contrastD.svg" alt="">
+                            <span>
+                                ניגודיות כהה
+                            </span>
+                    </button>
+                    <button id="apam-contrast-bright" class="" data-type="bright" data-selected="false"
+                            onclick="access.setContrast('bright')">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/contrastB.svg" alt="">
+                            <span>
+ניגודיות בהירה
+                            </span>
+                    </button>
+                </div>
+
+                <div id="apam-toolbar-textsize" class="amap_row amap_row3">
+                    <button id="apam-text-down" class=""
+                            onclick="access.decreaseFontSize()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/fontMinus.svg" alt="">
+                        <span>הקטנת גופן</span>
+                    </button>
+                    <button id="apam-text-up" class=""
+                            onclick="access.increaseFontSize()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/fontPlus.svg" alt="">
+                        <span>הגדלת גופן</span>
+                    </button>
+                    <button id="apam-font-readable" class="" onclick="access.fixFonts()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/font.svg" alt="">
+                        <span>גופן קריא</span>
+                    </button>
+                </div>
+
+                <div id="apam-toolbar-ui" class="amap_row amap_row3">
+                    <button id="apam-cursor-w" data-type="w" class=""
+                            onclick="access.setCursor('w')">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/arrowW.svg" alt="">
+                        <span>סמן גדול לבן</span>
+                    </button>
+                    <button id="apam-cursor-b" data-type="b" class=""
+                            onclick="access.setCursor('b')">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/arrowB.svg" alt="">
+                        <span>סמן גדול שחור</span>
+                    </button>
+                    <button id="apam-zoom" data-type="zoom" class=""
+                            onclick="access.setZoom()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/zoom.svg" alt="">
+                        <span>חלונית הגדלה</span>
+                    </button>
+                </div>
+
+                <div id="apam-toolbar-elemnts" class="amap_row amap_row3">
+                    <button id="apam-links" data-type="" class=""
+                            onclick="access.highlightLinks()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/links.svg" alt="">
+                        <span>הדגשת קישורים</span>
+                    </button>
+                    <button id="apam-titles" data-type="" class=""
+                            onclick="access.highlightTitles()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/titles.svg" alt="">
+                        <span>הדגשת כותרות</span>
+                    </button>
+                    <button id="apam-imgalt" data-type="" class=""
+                            onclick="access.ImagesAlt()">
+                        <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/imgAlt.svg" alt="">
+                        <span>תיאור תמונה</span>
+                    </button>
+                </div>
+
+
+            </div>
+        </div>
+        <div id="apam_footer">
+            <div class="amap_row amap_row2">
+                <button class="" id="apam-clearall" onclick="access.clearAll()" data-name="reset"
+                        data-selected="false">בטל נגישות
+                </button>
+                             <a class="" target="_blank" href="https://www.steimatzky.co.il/nugishut" data-name="statement" data-selected="false">הצהרת נגישות</a>
+                <button class="" data-name="feedback"  onclick="access.openContact()" data-selected="false">שלח משוב</button>
+
+            </div>
+             <div class="amap_row amap_logo">
+                 <a target="_blank" href="http://www.amazing.co.il"><img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/amazing_w.png" alt="amazing.co.il"></a>
+             </div>
+
+        </div>
+
+
+        <section id="apam-contactform" role="form">
+            <div id="apam-contactform-header">
+                <h4>שליחת משוב</h4>
+                <button id="apam-contactform-close" onclick="access.closeContact()" aria-label="סגירת הטופס משוב">
+                    <img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/icons/close.svg" alt="">
+                </button>
+            </div>
+            <div id="apam-contactform-content">
+                <div class="flachbg"></div>
+
+
+
+
+                <form action="/_access/index/submit" enctype="multipart/form-data"  id="apam-theform" method="POST"  aria-describedby="fapam-formdesc">
+                    <p id="fapam-formdesc">
+                        נתקלתם בבעיית נגישות באתר?<br/>שלחו לנו פירוט בטופס הבא
+                    </p>
+                    <label for="apam-name">
+                        <apan>שם מלא</apan>
+                        <input type="text" name="apam-name" id="apam-name" required>
+                    </label>
+                    <label for="apam-mail">
+                        <apan>כתובת מייל</apan>
+                        <input type="email" name="apam-mail" id="apam-mail" required>
+                    </label>
+                    <label for="apam-details">
+                        <apan>תארו במספר מילים את התקלה</apan>
+                        <textarea name="apam-details" id="apam-details" cols="20" rows="10" required></textarea>
+                    </label>
+                    <label for="apam-spam">
+                        <apan>4 + 3 (בדיקת ספאם)</apan>
+                        <input type="text" name="apam-spam" id="apam-spam" required>
+                    </label>
+                    <input type="hidden" name="apam-pagename" id="apam-pagename" value="ספרים זה סטימצקי | ספרים באינטרנט קונים באתר סטימצקי">
+                    <input type="hidden" name="apam-pageurl" id="apam-pageurl" value="https://www.steimatzky.co.il/">
+                    <p class="antispam" aria-hidden="true">
+                        <input name="antispam" id="antispam" type="text" value="">
+                    </p>
+                    <input type="submit" value="שליחה">
+                </form>
+            </div>
+        </section>
+    </div>
+
+</nav>
+<div id="site" class="col1">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    על מנת לעבוד עם המערכת עליך להפעיל JavaScript בדפדפן האינטרנט שלך.                </p>
+            </div>
+        </div>
+    </noscript>
+	<div id="sitemobileLoader">
+		<div class="loader-logo">
+			<img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/logo.png" alt="סטימצקי">
+		</div>
+	</div>
+	<header id="siteHeader">
+					<div id="top_header_bar">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="dynamic_top_txt">
+								<p style="text-align: center;">איסוף חבילות חינם מכל סניפי הרשת!</p>							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+				<div id="topBar">
+			<div class="container">
+				<div class="row">
+					<div id="logo" class="col-md-2 col-sm-2">
+						<a href="https://www.steimatzky.co.il/">
+							<img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/logo.png" alt=""/>
+
+						</a>
+					</div>
+					<div id="headerSearch" class="col-md-7 col-sm-6">
+						<form action="https://www.steimatzky.co.il/catalogsearch/result/" id="search_mini_form">
+							<input type="text" id="search" autocomplete="off"
+							       name="q"
+							       placeholder="מה תרצו לקנות היום?"
+							       value=""
+							       maxlength="128"/>
+							<div id="search_autocomplete" class="search-autocomplete"></div>
+							<script type="text/javascript">
+								//<![CDATA[
+								var searchForm = new Varien.searchForm('search_mini_form', 'search', 'מה תרצו לקנות היום?')
+								searchForm.initAutocomplete('https://www.steimatzky.co.il/catalogsearch/ajax/suggest/', 'search_autocomplete')
+								//]]>
+							</script>
+							<input type="submit"/>
+						</form>
+					</div>
+					<div id="userBox" class="col-md-3 col-sm-4">
+						<div class="top-cart">
+	<div class="maincart">
+		<div class="details">
+			<div class="loginbox ">
+				<span class="usericon"></span>
+									<a class="login-btn"
+					   href="https://www.steimatzky.co.il/customer/account/login/referer/aHR0cHM6Ly93d3cuc3RlaW1hdHpreS5jby5pbC8_X19fU0lEPVU,/">התחברות</a>
+					/
+					<a class="login-btn"
+					   href="https://www.steimatzky.co.il/customer/account/create/">הצטרפות</a>
+							</div>
+					</div>
+		<div class="icon-ajaxcart">
+			<a id="top-cart-icon" title="לסל הקניות" href="https://www.steimatzky.co.il/checkout/cart/"
+			   class="empty">
+				<span>0 </span>
+				<span class="minicart-label">לסל הקניות</span>
+			</a>
+			<div class="clearfix"></div>
+			<div id="minicartbox">
+				<span class="closebtn"><span class="x"></span><span class="x2"></span></span>
+				<header class="minicartHeader">
+					<span class="count">0</span>
+					<h3 class="cartTitle">
+						<a href="https://www.steimatzky.co.il/checkout/cart/">סל הקניות שלי</a>
+					</h3>
+				</header>
+				<div class="minicartContent">
+									<p class="emptycartMsg">
+					<strong>אין עדין פריטים בסל שלך </strong>
+					<br/>
+					ספר טוב? משחק לילד? דיסק שיכניס אותך לקצב?<br/>קשה לבחור, אנו מבינים ללבך. אולי זה יעזור לך : <a href='https://www.steimatzky.co.il/sales.html/'>למבצעים שלנו</a>				</p>
+			</div>
+			<footer class="minicartFooter"></footer>
+					</div>
+	</div>
+</div></div>					</div>
+					<div id="mainNavBtn">
+						<span></span>
+						<span class="x"></span>
+						<span class="x2"></span>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<nav id="categoriesNav">
+	<div class="container">
+		<ul class="nav navbar-nav">
+<li class="empty"><span style="color: #ff9900;"><span style="color: #ff9900;"><a class="sales" href="/sales.html">מבצעים</a></span></span></li>
+</ul>		<ul id="catMenu" class="nav navbar-nav">
+							<li id="menuCat-398" class="topItem  ">
+					<a href="https://www.steimatzky.co.il/ספרים.html">ספרים</a>
+											<div class="container hide sub">
+							<ul class="menuCategories">
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="502">
+											<a class="spacialItem"
+											   href="https://www.steimatzky.co.il/ספרים/מבצעים.html"
+											   title="ספרים במבצע">
+												<span>ספרים במבצע</span>
+												<span class="count"> (29866)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="500">
+											<a class="spacialItem"
+											   href="https://www.steimatzky.co.il/ספרים/רבי-מכר.html"
+											   title="רבי מכר">
+												<span>רבי מכר</span>
+												<span class="count"> (29866)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="499">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים/פרוזה.html"
+											   title="פרוזה">
+												<span>פרוזה</span>
+												<span class="count"> (6519)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פרוזה/סיפורת.html"
+											   title="סיפורת">
+												<span>סיפורת</span>
+												<span class="count"> (5450)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פרוזה/מתח.html"
+											   title="מתח">
+												<span>מתח</span>
+												<span class="count"> (913)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פרוזה/רומן-רומנטי.html"
+											   title="רומן רומנטי">
+												<span>רומן רומנטי</span>
+												<span class="count"> (156)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="452">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער.html"
+											   title="ילדים ונוער">
+												<span>ילדים ונוער</span>
+												<span class="count"> (10147)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/מדע-בדיוני-ופנטזיה.html"
+											   title="ספרי מדע בדיוני ופנטזיה">
+												<span>ספרי מדע בדיוני ופנטזיה</span>
+												<span class="count"> (402)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/פעוטות-וילדים.html"
+											   title="פעוטות וילדים">
+												<span>פעוטות וילדים</span>
+												<span class="count"> (5532)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/ראשית-קריאה.html"
+											   title="ראשית קריאה">
+												<span>ראשית קריאה</span>
+												<span class="count"> (1017)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/חוברות-פעילות.html"
+											   title="חוברות פעילות">
+												<span>חוברות פעילות</span>
+												<span class="count"> (311)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/חוברות-עבודה.html"
+											   title="חוברות עבודה">
+												<span>חוברות עבודה</span>
+												<span class="count"> (509)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/ילדים-ונוער/נוער.html"
+											   title="ספרי נוער">
+												<span>ספרי נוער</span>
+												<span class="count"> (2376)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="434">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים.html"
+											   title="פנאי ותחביבים">
+												<span>פנאי ותחביבים</span>
+												<span class="count"> (4454)</span>
+											</a>
+										</li>
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/ארכיטקטורה.html"
+											   title="ארכיטקטורה">
+												<span>ארכיטקטורה</span>
+												<span class="count"> (56)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/אמנות.html"
+											   title="אמנות">
+												<span>אמנות</span>
+												<span class="count"> (139)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/עיצוב-ועיצוב-פנים.html"
+											   title="עיצוב ועיצוב פנים">
+												<span>עיצוב ועיצוב פנים</span>
+												<span class="count"> (45)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/בלט-ומחול.html"
+											   title="בלט ומחול">
+												<span>בלט ומחול</span>
+												<span class="count"> (27)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/מחזות-ותאטרון.html"
+											   title="מחזות ותאטרון">
+												<span>מחזות ותאטרון</span>
+												<span class="count"> (201)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/שירה.html"
+											   title="ספרי שירה">
+												<span>ספרי שירה</span>
+												<span class="count"> (1560)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/צילום.html"
+											   title="צילום">
+												<span>צילום</span>
+												<span class="count"> (58)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/ספרי-מתנה.html"
+											   title="ספרי מתנה">
+												<span>ספרי מתנה</span>
+												<span class="count"> (324)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/בישול-ואפיה.html"
+											   title="בישול ואפיה">
+												<span>בישול ואפיה</span>
+												<span class="count"> (621)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/מדריכי-נסיעות.html"
+											   title="מדריכי נסיעות">
+												<span>מדריכי נסיעות</span>
+												<span class="count"> (456)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/מפות.html"
+											   title="מפות">
+												<span>מפות</span>
+												<span class="count"> (63)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/סיור-וטיול.html"
+											   title="סיור וטיול">
+												<span>סיור וטיול</span>
+												<span class="count"> (195)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/ספורט.html"
+											   title="ספורט">
+												<span>ספורט</span>
+												<span class="count"> (52)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/אופנה.html"
+											   title="אופנה">
+												<span>אופנה</span>
+												<span class="count"> (4)</span>
+											</a>
+										</li>
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/זמר-ומוסיקה.html"
+											   title="זמר ומוסיקה">
+												<span>זמר ומוסיקה</span>
+												<span class="count"> (124)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/קולנוע.html"
+											   title="קולנוע">
+												<span>קולנוע</span>
+												<span class="count"> (72)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/תחביבים-ופנאי.html"
+											   title="תחביבים ופנאי">
+												<span>תחביבים ופנאי</span>
+												<span class="count"> (199)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/פנאי-ותחביבים/הומור-וסאטירה.html"
+											   title="הומור וסאטירה">
+												<span>הומור וסאטירה</span>
+												<span class="count"> (99)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="545">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים/חדשים.html"
+											   title="ספרים חדשים">
+												<span>ספרים חדשים</span>
+												<span class="count"> (29866)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="546">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים/עיון.html"
+											   title="ספרי עיון">
+												<span>ספרי עיון</span>
+												<span class="count"> (8746)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/יהדות-ומחשבת-ישראל.html"
+											   title="יהדות ומחשבת ישראל">
+												<span>יהדות ומחשבת ישראל</span>
+												<span class="count"> (716)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/מדע.html"
+											   title="מדע">
+												<span>מדע</span>
+												<span class="count"> (147)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/חברה-ומדינה.html"
+											   title="חברה ומדינה">
+												<span>חברה ומדינה</span>
+												<span class="count"> (318)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/פסיכולוגיה-מודעות-ועזרה-עצמית.html"
+											   title="פסיכולוגיה מודעות ועזרה עצמית">
+												<span>פסיכולוגיה מודעות ועזרה עצמית</span>
+												<span class="count"> (1044)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/פואטיקה-מסות-ובקורת.html"
+											   title="פואטיקה מסות ובקורת">
+												<span>פואטיקה מסות ובקורת</span>
+												<span class="count"> (355)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/היסטוריה-כללית.html"
+											   title="היסטוריה כללית">
+												<span>היסטוריה כללית</span>
+												<span class="count"> (203)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/צבא-מלחמה-ונשק.html"
+											   title="צבא מלחמה ונשק">
+												<span>צבא מלחמה ונשק</span>
+												<span class="count"> (323)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/בלשנות-ושפות.html"
+											   title="בלשנות ושפות">
+												<span>בלשנות ושפות</span>
+												<span class="count"> (142)</span>
+											</a>
+										</li>
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/אוטוביוגרפיה-זכרונות.html"
+											   title="אוטוביוגרפיה זכרונות">
+												<span>אוטוביוגרפיה זכרונות</span>
+												<span class="count"> (938)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/הגות-ופילוסופיה.html"
+											   title="הגות ופילוסופיה">
+												<span>הגות ופילוסופיה</span>
+												<span class="count"> (405)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/מקרא-ותנ-quot-ך.html"
+											   title="מקרא ותנ&quot;ך">
+												<span>מקרא ותנ&quot;ך</span>
+												<span class="count"> (227)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/סוציולוגיה-ואנתרופולוגיה.html"
+											   title="סוציולוגיה ואנתרופולוגיה">
+												<span>סוציולוגיה ואנתרופולוגיה</span>
+												<span class="count"> (103)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/היסטוריה-יהודית-ועם-ישראל.html"
+											   title="היסטוריה יהודית ועם ישראל">
+												<span>היסטוריה יהודית ועם ישראל</span>
+												<span class="count"> (461)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/הורות-ומשפחה.html"
+											   title="הורות ומשפחה">
+												<span>הורות ומשפחה</span>
+												<span class="count"> (219)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/בריאות-ורפואה.html"
+											   title="בריאות ורפואה">
+												<span>בריאות ורפואה</span>
+												<span class="count"> (198)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/פוליטיקה-והמזרח-התיכון.html"
+											   title="פוליטיקה והמזרח התיכון">
+												<span>פוליטיקה והמזרח התיכון</span>
+												<span class="count"> (162)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/דתות-ואמונות.html"
+											   title="דתות ואמונות">
+												<span>דתות ואמונות</span>
+												<span class="count"> (101)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/העידן-החדש.html"
+											   title="העידן החדש">
+												<span>העידן החדש</span>
+												<span class="count"> (442)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/חינוך.html"
+											   title="חינוך">
+												<span>חינוך</span>
+												<span class="count"> (169)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/תקשורת-ויחסי-ציבור.html"
+											   title="תקשורת ויחסי ציבור">
+												<span>תקשורת ויחסי ציבור</span>
+												<span class="count"> (66)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/כלכלה.html"
+											   title="כלכלה">
+												<span>כלכלה</span>
+												<span class="count"> (181)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/חוק-ומשפט.html"
+											   title="חוק ומשפט">
+												<span>חוק ומשפט</span>
+												<span class="count"> (66)</span>
+											</a>
+										</li>
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/מילונים-ושיחונים.html"
+											   title="מילונים ושיחונים">
+												<span>מילונים ושיחונים</span>
+												<span class="count"> (219)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/דיאטה-ותזונה.html"
+											   title="דיאטה ותזונה">
+												<span>דיאטה ותזונה</span>
+												<span class="count"> (126)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/נשים-ומגדר.html"
+											   title="נשים ומגדר">
+												<span>נשים ומגדר</span>
+												<span class="count"> (97)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/הריון-לידה-ותינוק.html"
+											   title="הריון לידה ותינוק">
+												<span>הריון לידה ותינוק</span>
+												<span class="count"> (82)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/ניהול-ושיווק.html"
+											   title="ניהול ושיווק">
+												<span>ניהול ושיווק</span>
+												<span class="count"> (328)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/ידיעת-הארץ.html"
+											   title="ידיעת הארץ">
+												<span>ידיעת הארץ</span>
+												<span class="count"> (52)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/בע-quot-ח-טבע-וקיימות.html"
+											   title="בע&quot;ח טבע וקיימות">
+												<span>בע&quot;ח טבע וקיימות</span>
+												<span class="count"> (95)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/רפואה-משלימה.html"
+											   title="רפואה משלימה">
+												<span>רפואה משלימה</span>
+												<span class="count"> (149)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/מחשבים.html"
+											   title="מחשבים">
+												<span>מחשבים</span>
+												<span class="count"> (61)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/ארכיאולוגיה.html"
+											   title="ארכיאולוגיה">
+												<span>ארכיאולוגיה</span>
+												<span class="count"> (13)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/רכב-ותחבורה.html"
+											   title="רכב ותחבורה">
+												<span>רכב ותחבורה</span>
+												<span class="count"> (13)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ספרים/עיון/משרדאות-והנהלת-חשבונות.html"
+											   title="משרדאות והנהלת חשבונות">
+												<span>משרדאות והנהלת חשבונות</span>
+												<span class="count"> (4)</span>
+											</a>
+										</li>
+																				
+																			</ul>
+								</li>
+							</ul>
+																				</div>
+									</li>
+
+                
+                				<li id="menuCat-470" class="topItem  ">
+					<a href="https://www.steimatzky.co.il/ספרים-באנגלית.html">ספרים באנגלית</a>
+											<div class="container hide sub">
+							<ul class="menuCategories">
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="517">
+											<a class="spacialItem"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/on-sale.html"
+											   title="ON SALE">
+												<span>ON SALE</span>
+												<span class="count"> (9967)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="471">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/fiction.html"
+											   title="FICTION">
+												<span>FICTION</span>
+												<span class="count"> (4683)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="503">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/children.html"
+											   title="CHILDREN">
+												<span>CHILDREN</span>
+												<span class="count"> (1953)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="473">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/non-fiction.html"
+											   title="NON- FICTION">
+												<span>NON- FICTION</span>
+												<span class="count"> (924)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="472">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/israel-jewish-interest.html"
+											   title="ISRAEL & JEWISH INTEREST">
+												<span>ISRAEL & JEWISH INTEREST</span>
+												<span class="count"> (625)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="474">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/art-design.html"
+											   title="Art & Design">
+												<span>Art & Design</span>
+												<span class="count"> (1403)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="588">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ספרים-באנגלית/maps-guides.html"
+											   title="MAPS&GUIDES">
+												<span>MAPS&GUIDES</span>
+												<span class="count"> (379)</span>
+											</a>
+										</li>
+										
+																			</ul>
+								</li>
+							</ul>
+																				</div>
+									</li>
+
+                <li class="topItem empty"><a href="https://www.getbooks.co.il/#utm_source=SteimatzkyWEB&amp;utm_medium=SteimatzkyWEB&amp;utm_campaign=Steimatzk" target="_blank">ספרים דיגיטלים</a></li>
+                				<li id="menuCat-491" class="topItem  ">
+					<a href="https://www.steimatzky.co.il/משחקים.html">משחקים</a>
+											<div class="container hide sub">
+							<ul class="menuCategories">
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="513">
+											<a class="spacialItem"
+											   href="https://www.steimatzky.co.il/משחקים/מבצעים.html"
+											   title="מבצעים">
+												<span>מבצעים</span>
+												<span class="count"> (298)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="492">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/משחקים/משחקי-קופסא.html"
+											   title="משחקי קופסא">
+												<span>משחקי קופסא</span>
+												<span class="count"> (223)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="493">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/משחקים/ניו-אייג-קלפי-מודעות.html"
+											   title="ניו אייג' קלפי מודעות">
+												<span>ניו אייג' קלפי מודעות</span>
+												<span class="count"> (75)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/משחקים/ניו-אייג-קלפי-מודעות/מודעות-גוף-ונפש.html"
+											   title="מודעות גוף ונפש">
+												<span>מודעות גוף ונפש</span>
+												<span class="count"> (33)</span>
+											</a>
+										</li>
+																				
+																			</ul>
+								</li>
+							</ul>
+																				</div>
+									</li>
+
+                
+                				<li id="menuCat-467" class="topItem  ">
+					<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה.html">מוסיקה ומדיה</a>
+											<div class="container hide sub">
+							<ul class="menuCategories">
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="485">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/מוסיקה-ומדיה/ישראלית.html"
+											   title="מוזיקה ישראלית">
+												<span>מוזיקה ישראלית</span>
+												<span class="count"> (327)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/ישראלית/מוסיקה-ישראלית.html"
+											   title="מוסיקה ישראלית">
+												<span>מוסיקה ישראלית</span>
+												<span class="count"> (322)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/ישראלית/מוסיקה-יהודית.html"
+											   title="מוסיקה יהודית">
+												<span>מוסיקה יהודית</span>
+												<span class="count"> (3)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/ישראלית/dvd-הופעות-ישראליות.html"
+											   title="DVD הופעות ישראליות">
+												<span>DVD הופעות ישראליות</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="468">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם.html"
+											   title="מוסיקה מהעולם">
+												<span>מוסיקה מהעולם</span>
+												<span class="count"> (240)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם/מוסיקה-לועזית.html"
+											   title="מוסיקה לועזית">
+												<span>מוסיקה לועזית</span>
+												<span class="count"> (191)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם/מוסיקה-קלאסית.html"
+											   title="מוסיקה קלאסית">
+												<span>מוסיקה קלאסית</span>
+												<span class="count"> (38)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם/מוסיקה-גאז.html"
+											   title="מוסיקה גאז">
+												<span>מוסיקה גאז</span>
+												<span class="count"> (7)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם/מוסיקת-עולם.html"
+											   title="מוסיקת עולם">
+												<span>מוסיקת עולם</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-מהעולם/dvd-הופעות-בלועזית.html"
+											   title="DVD-הופעות בלועזית">
+												<span>DVD-הופעות בלועזית</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="489">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-לילדים.html"
+											   title="מוסיקה לילדים">
+												<span>מוסיקה לילדים</span>
+												<span class="count"> (63)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/מוסיקה-לילדים/מוסיקת-ילדים.html"
+											   title="מוסיקת ילדים">
+												<span>מוסיקת ילדים</span>
+												<span class="count"> (63)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="488">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי.html"
+											   title="דיוידי">
+												<span>דיוידי</span>
+												<span class="count"> (52)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/סרטים-שונים-די-וי-די.html"
+											   title="סרטים שונים די וי די">
+												<span>סרטים שונים די וי די</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/ילדים-די-וי-די-ישראלי.html"
+											   title="ילדים די וי די ישראלי">
+												<span>ילדים די וי די ישראלי</span>
+												<span class="count"> (26)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/קולנוע-די-וי-די.html"
+											   title="קולנוע די וי די">
+												<span>קולנוע די וי די</span>
+												<span class="count"> (9)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/מארזים-וסדרות-די-וי-די-ילדים-ישראלי.html"
+											   title="מארזים וסדרות די וי די ילדים ישראלי">
+												<span>מארזים וסדרות די וי די ילדים ישראלי</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/ילדים-dvd-חול.html"
+											   title="ילדים DVD חול">
+												<span>ילדים DVD חול</span>
+												<span class="count"> (11)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/מוסיקה-ומדיה/דיוידי/מארזים-וסדרות-dvd-ילדים-חול.html"
+											   title="מארזים וסדרות DVD ילדים חול">
+												<span>מארזים וסדרות DVD ילדים חול</span>
+												<span class="count"> (1)</span>
+											</a>
+										</li>
+																				
+																			</ul>
+								</li>
+							</ul>
+																				</div>
+									</li>
+
+                
+                				<li id="menuCat-579" class="topItem  ">
+					<a href="https://www.steimatzky.co.il/ילדים-ונוער.html">ילדים ונוער</a>
+											<div class="container hide sub">
+							<ul class="menuCategories">
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="580">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/מבצעים.html"
+											   title="מבצעים">
+												<span>מבצעים</span>
+												<span class="count"> (11736)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="581">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/ספרים.html"
+											   title="ספרים">
+												<span>ספרים</span>
+												<span class="count"> (9434)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/ספרים/פעוטות-וילדים.html"
+											   title="פעוטות וילדים">
+												<span>פעוטות וילדים</span>
+												<span class="count"> (5532)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/ספרים/נוער.html"
+											   title="נוער">
+												<span>נוער</span>
+												<span class="count"> (2376)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/ספרים/ראשית-קריאה.html"
+											   title="ראשית קריאה">
+												<span>ראשית קריאה</span>
+												<span class="count"> (1017)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/ספרים/חוברות-עבודה.html"
+											   title="חוברות עבודה">
+												<span>חוברות עבודה</span>
+												<span class="count"> (509)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="589">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/children-s-books.html"
+											   title="CHILDREN'S BOOKS">
+												<span>CHILDREN'S BOOKS</span>
+												<span class="count"> (1953)</span>
+											</a>
+										</li>
+										
+																				<li class="toplevelitem" data-id="590">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/צעצועים.html"
+											   title="צעצועים">
+												<span>צעצועים</span>
+												<span class="count"> (23)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/צעצועים/צעצועים.html"
+											   title="צעצועים">
+												<span>צעצועים</span>
+												<span class="count"> (23)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="592">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/משחקים.html"
+											   title="משחקים">
+												<span>משחקים</span>
+												<span class="count"> (223)</span>
+											</a>
+										</li>
+										
+																			</ul>
+								</li>
+								<li class="col-md-3 menucol">
+									<ul class="catList">
+																				<li class="toplevelitem" data-id="594">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/דיוידי.html"
+											   title="דיוידי">
+												<span>דיוידי</span>
+												<span class="count"> (40)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/דיוידי/ילדים-די-וי-די-ישראלי.html"
+											   title="ילדים די וי די ישראלי">
+												<span>ילדים די וי די ישראלי</span>
+												<span class="count"> (26)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/דיוידי/מארזים-וסדרות-די-וי-די-ילדים-ישראלי.html"
+											   title="מארזים וסדרות די וי די ילדים ישראלי">
+												<span>מארזים וסדרות די וי די ילדים ישראלי</span>
+												<span class="count"> (11)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/דיוידי/מארזים-וסדרות-dvd-ילדים-חול.html"
+											   title="מארזים וסדרות DVD ילדים חול">
+												<span>מארזים וסדרות DVD ילדים חול</span>
+												<span class="count"> (1)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/דיוידי/ילדים-dvd-חול.html"
+											   title="ילדים DVD חול">
+												<span>ילדים DVD חול</span>
+												<span class="count"> (2)</span>
+											</a>
+										</li>
+																				
+																				<li class="toplevelitem" data-id="596">
+											<a class="MenuTitle"
+											   href="https://www.steimatzky.co.il/ילדים-ונוער/מוזיקה-cd-תחום-ילדים-בלבד.html"
+											   title="דיסקים לילדים">
+												<span>דיסקים לילדים</span>
+												<span class="count"> (63)</span>
+											</a>
+										</li>
+																				<li>
+											<a href="https://www.steimatzky.co.il/ילדים-ונוער/מוזיקה-cd-תחום-ילדים-בלבד/מוסיקת-ילדים.html"
+											   title="מוסיקת ילדים">
+												<span>מוסיקת ילדים</span>
+												<span class="count"> (63)</span>
+											</a>
+										</li>
+																				
+																			</ul>
+								</li>
+							</ul>
+																				</div>
+									</li>
+
+                
+                
+							<li class="club-menu">
+					<a class="club" href="/club_details"> מועדון לקוחות</a>
+					<div class="container hide sub">
+						<ul class="menuCategories">
+							<li class="menucol">
+								<ul class="catList">
+<li><a href="https://www.steimatzky.co.il/club_details">חברות במועדון</a></li>
+<li><a href="https://www.steimatzky.co.il/carousel/index/index/id/155">מבצעים לחברי מועדון</a></li>
+<li><a href="https://www.steimatzky.co.il/terms_club">תקנון המועדון</a></li>
+<li><a href="https://www.steimatzky.co.il/club">הפרטים שלי</a></li>
+</ul>							</li>
+						</ul>
+					</div>
+				</li>
+						<li class="empty">
+				<span style="color: #ff9900;"><span style="color: #ff9900;">
+						<a href="/giftcard">כרטיס מתנה</a></span></span>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav pull-left">
+<li class="empty"><a href="/JOBS">דרושים</a></li>
+<li class="empty"><strong><a href="/contact">שינוי\ביטול הזמנה</a></strong></li>
+</ul>	</div>
+</nav>
+
+	</header>
+
+    <div id="messagesrow" class="container ">
+            </div>
+    <div id="pageContent">
+        
+	<section id="mainBanner">
+		<div id="bannerSlider">
+			<div class="slide container easybanner-container">
+				
+<div class="box box-easybanner-placeholder  placeholder-rotator placeholder-homepage_main_slider">
+	<div class="easybanner-placeholder-wrapper">
+		
+		
+					<div class="easybanner-banner hotbanner-slide">
+						<div style="background-image: url('/media//hotbanners/feb_valentines_membership1.jpg'); width: 1304px; height: 289px"
+						     data-width="1304"
+						     data-height="289"
+						     data-id="39"
+						     class="hotbanner-inner">
+															<a title="" class="banner-area" data-top="4px" data-left="454px"
+								   data-width="847px" data-height="281px"
+								   style="top:4px;left:454px;width: 847px;height: 281px"
+								   href="https://www.steimatzky.co.il/carousel/index/index/id/503/" target=""></a>
+																<a title="" class="banner-area" data-top="4px" data-left="4px"
+								   data-width="431px" data-height="282px"
+								   style="top:4px;left:4px;width: 431px;height: 282px"
+								   href="https://www.steimatzky.co.il/carousel/index/index/id/524/" target=""></a>
+								                            <img src="/media//hotbanners/feb_valentines_membership1.jpg" alt="" />
+
+                        </div>
+					</div>
+					
+					<div class="easybanner-banner hotbanner-slide">
+						<div style="background-image: url('/media//hotbanners/Banner_jan18_1350-300.jpg'); width: 1350px; height: 300px"
+						     data-width="1350"
+						     data-height="300"
+						     data-id="27"
+						     class="hotbanner-inner">
+															<a title="" class="banner-area" data-top="7px" data-left="4px"
+								   data-width="440px" data-height="289px"
+								   style="top:7px;left:4px;width: 440px;height: 289px"
+								   href="https://www.steimatzky.co.il/catalogsearch/result/?q=%D7%90%D7%95%D7%95%D7%98%D7%90%D7%A8" target=""></a>
+																<a title="" class="banner-area" data-top="6px" data-left="453px"
+								   data-width="889px" data-height="288px"
+								   style="top:6px;left:453px;width: 889px;height: 288px"
+								   href="https://www.steimatzky.co.il/sales.html" target=""></a>
+								                            <img src="/media//hotbanners/Banner_jan18_1350-300.jpg" alt="" />
+
+                        </div>
+					</div>
+					
+					<div class="easybanner-banner hotbanner-slide">
+						<div style="background-image: url('/media//hotbanners/RomanticaStematzkky_1360x300.jpg'); width: 1360px; height: 300px"
+						     data-width="1360"
+						     data-height="300"
+						     data-id="33"
+						     class="hotbanner-inner">
+															<a title="" class="banner-area" data-top="4px" data-left="4px"
+								   data-width="1345px" data-height="291.984375px"
+								   style="top:4px;left:4px;width: 1345px;height: 291.984375px"
+								   href="https://www.getbooks.co.il/info/Valentines-day-2018?utm_source=stimtzkybanner&utm_medium=stimtzkybanner&utm_campaign=stimtzkybanner" target="_blank"></a>
+								                            <img src="/media//hotbanners/RomanticaStematzkky_1360x300.jpg" alt="" />
+
+                        </div>
+					</div>
+					
+					<div class="easybanner-banner hotbanner-slide">
+						<div style="background-image: url('/media//hotbanners/feb_family_membership.jpg'); width: 1304px; height: 289px"
+						     data-width="1304"
+						     data-height="289"
+						     data-id="42"
+						     class="hotbanner-inner">
+															<a title="" class="banner-area" data-top="3px" data-left="452px"
+								   data-width="847px" data-height="283px"
+								   style="top:3px;left:452px;width: 847px;height: 283px"
+								   href="https://www.steimatzky.co.il/carousel/index/index/id/544/" target=""></a>
+																<a title="" class="banner-area" data-top="6px" data-left="1px"
+								   data-width="435px" data-height="280px"
+								   style="top:6px;left:1px;width: 435px;height: 280px"
+								   href="https://www.steimatzky.co.il/club_details" target=""></a>
+								                            <img src="/media//hotbanners/feb_family_membership.jpg" alt="" />
+
+                        </div>
+					</div>
+						</div>
+</div>
+
+				<div class="cycle-pager"></div>
+
+			</div>
+		</div>
+	</section>
+	<section id="bannersRow">
+		<div class="container">
+			<div class="row">
+				<div class="banner right col-sm-6">
+									</div>
+				<div class="banner left col-sm-6">
+									</div>
+			</div>
+		</div>
+	</section>
+	<section class="bookSliderRow" data-slides="5" id="newProducts">
+		<div class="container">
+			<div class="row">
+				<div class="sectionHead">
+					<h3>
+						<a href="https://www.steimatzky.co.il/carousel/index/index/id/488/">חדש על המדף</a>
+					</h3>
+					<div class="line"></div>
+					<div class="desc">חדש על המדף</div>
+				</div>
+				<div class="bookSlider">
+	
+		<article class="book" data-name="ככה זה תמיד">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פרנקל-לורי/ככה-זה-תמיד.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://www.steimatzky.co.il/skin/frontend/base/default/images/catalog/product/placeholder/image.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211498"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פרנקל-לורי/ככה-זה-תמיד.html">ככה זה תמיד</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/95594/">
+								פרנקל לורי							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="רודן">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פרייזר-ט.מ/רודן.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011250726.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">84</span>
+			<span class="">.60</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">80</span>
+			<span class="">.37</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211105"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פרייזר-ט.מ/רודן.html">רודן</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136067/">
+								פרייזר ט.מ							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="סלח לנו">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/הומס-א.מ/סלח-לנו.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010073646.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211282"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/הומס-א.מ/סלח-לנו.html">סלח לנו</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136113/">
+								הומס א.מ							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הבטחת הנחש">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/ג%27ונס-סטיב/הבטחת-הנחש.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011324074.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="210834"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/ג%27ונס-סטיב/הבטחת-הנחש.html">הבטחת הנחש</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/90820/">
+								ג'ונס סטיב							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="תן למילים לעשות בך / יונה וולך">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/וולך-יונה/תן-למילים-לעשות-בך---יונה-וולך.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011194388.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">53</span>
+			<span class="">.10</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">50</span>
+			<span class="">.45</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211138"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/וולך-יונה/תן-למילים-לעשות-בך---יונה-וולך.html">תן למילים לעשות בך / יונה וולך</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/110080/">
+								וולך יונה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מועדון המכוניות של מצרים">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/אל-אסוואני-עלאא/מועדון-המכוניות-של-מצרים.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011374118.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="210842"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/אל-אסוואני-עלאא/מועדון-המכוניות-של-מצרים.html">מועדון המכוניות של מצרים</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/114176/">
+								אל אסוואני עלאא							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="עץ הקזוארינה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/מוהם-סומרסט/עץ-הקזוארינה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011521861.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">79</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">75</span>
+			<span class="">.24</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211148"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/מוהם-סומרסט/עץ-הקזוארינה.html">עץ הקזוארינה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/107397/">
+								מוהם סומרסט							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="המסכות המצחיקות שלי כחול">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/המסכות-המצחיקות-שלי-כחול.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010310056.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">18</span>
+			<span class="">.00</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209986"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/המסכות-המצחיקות-שלי-כחול.html">המסכות המצחיקות שלי כחול</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/0/">
+															</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="המנבאים 2 מאורת החלומות">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/בריי-ליבה/המנבאים-2-מאורת-החלומות.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011414851.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">79</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211533"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/בריי-ליבה/המנבאים-2-מאורת-החלומות.html">המנבאים 2 מאורת החלומות</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/94059/">
+								בריי ליבה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="צאו מהאמבטיה שלי">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/טקנטרופ-בריטה/צאו-מהאמבטיה-שלי.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/014561315.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">62</span>
+			<span class="">.10</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">59</span>
+			<span class="">.00</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211298"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/טקנטרופ-בריטה/צאו-מהאמבטיה-שלי.html">צאו מהאמבטיה שלי</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136126/">
+								טקנטרופ בריטה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מה זה משנה ?">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/שרוט-טלי/מה-זה-משנה-?.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011374125.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211201"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/שרוט-טלי/מה-זה-משנה-?.html">מה זה משנה ?</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136099/">
+								שרוט טלי							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מנגינות ילדות ספר מנגן">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/לוריא-דב-ערך/מנגינות-ילדות-ספר-מנגן.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011120023.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">81</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="210814"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/לוריא-דב-ערך/מנגינות-ילדות-ספר-מנגן.html">מנגינות ילדות ספר מנגן</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136007/">
+								לוריא דב ערך							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="אהבה מסותרת">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/טואג-חנה/אהבה-מסותרת.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011051519.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">71</span>
+			<span class="">.10</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211616"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/טואג-חנה/אהבה-מסותרת.html">אהבה מסותרת</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/106925/">
+								טואג חנה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="גישת הקופסה השחורה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סייד-מתיו/גישת-הקופסה-השחורה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/013621086.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">106</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">100</span>
+			<span class="">.89</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211373"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סייד-מתיו/גישת-הקופסה-השחורה.html">גישת הקופסה השחורה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136134/">
+								סייד מתיו							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="שקר 1 קטנטן">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/טאקר-קיי.איי/שקר-1-קטנטן.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011051499.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">79</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">52</span>
+			<span class="">.80</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211040"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/טאקר-קיי.איי/שקר-1-קטנטן.html">שקר 1 קטנטן</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/135927/">
+								טאקר קיי.איי							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	</div>			</div>
+		</div>
+	</section>
+	<section class="bookSliderRow" data-slides="5" id="newProducts">
+		<div class="container">
+			<div class="row">
+				<div class="sectionHead">
+					<h3>
+						<a href="https://www.steimatzky.co.il/carousel/index/index/id/500/">המלצות העורך</a>
+					</h3>
+					<div class="line"></div>
+					<div class="desc">המלצות העורך</div>
+				</div>
+				<div class="bookSlider">
+	
+		<article class="book" data-name="אנה פרנק היומן הגרפי                 קומיקס">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פולמן-ארי-ופולונסקי-דוד/אנה-פרנק-היומן-הגרפי-----------------קומיקס.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011374094.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">77</span>
+			<span class="">.40</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">73</span>
+			<span class="">.53</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209051"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פולמן-ארי-ופולונסקי-דוד/אנה-פרנק-היומן-הגרפי-----------------קומיקס.html">אנה פרנק היומן הגרפי                 קומיקס</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/132927/">
+								פולמן ארי ופולונסקי דוד							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="שילה לוין מתה והיא חיה בניו יורק">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פארנט-גייל/שילה-לוין-מתה-והיא-חיה-בניו-יורק.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200021.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211906"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פארנט-גייל/שילה-לוין-מתה-והיא-חיה-בניו-יורק.html">שילה לוין מתה והיא חיה בניו יורק</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136263/">
+								פארנט גייל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="קטנות גדולות אמיליה ארהרט">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סנצ%27ס-ורגארה-איסבל/קטנות-גדולות-אמיליה-ארהרט.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/012840022.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">61</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">58</span>
+			<span class="">.14</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209931"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סנצ%27ס-ורגארה-איסבל/קטנות-גדולות-אמיליה-ארהרט.html">קטנות גדולות אמיליה ארהרט</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/135823/">
+								סנצ'ס ורגארה איסבל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="פאני וגבריאל">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סמל-נאוה/פאני-וגבריאל.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010033193.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">86</span>
+			<span class="">.40</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">82</span>
+			<span class="">.08</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="206317"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סמל-נאוה/פאני-וגבריאל.html">פאני וגבריאל</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/104411/">
+								סמל נאוה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="עמק הסיליקון">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/אורן-רם/עמק-הסיליקון.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010060062.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211593"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/אורן-רם/עמק-הסיליקון.html">עמק הסיליקון</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83726/">
+								אורן רם							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="קטנות גדולות אגתה כריסטי">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סנצ%27ס-ורגארה-איסבל/קטנות-גדולות-אגתה-כריסטי.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/012840021.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">61</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">58</span>
+			<span class="">.14</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209930"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סנצ%27ס-ורגארה-איסבל/קטנות-גדולות-אגתה-כריסטי.html">קטנות גדולות אגתה כריסטי</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/135823/">
+								סנצ'ס ורגארה איסבל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="ששה בשקיק אחד מהד' חדשה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/קיפניס-לוין/ששה-בשקיק-אחד-מהד%27-חדשה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011981119.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">66</span>
+			<span class="">.60</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">63</span>
+			<span class="">.27</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="127599"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/קיפניס-לוין/ששה-בשקיק-אחד-מהד%27-חדשה.html">ששה בשקיק אחד מהד' חדשה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/111459/">
+								קיפניס לוין							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="לבד בקובה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/דה-מיל-נלסון/לבד-בקובה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200018.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211055"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/דה-מיל-נלסון/לבד-בקובה.html">לבד בקובה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/96937/">
+								דה מיל נלסון							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הכריש">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/בן-דוד-מישקה/הכריש.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200015.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">44</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209916"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/בן-דוד-מישקה/הכריש.html">הכריש</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/93959/">
+								בן דוד מישקה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="איך לחשוב כמו סטיב ג'ובס">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סמית-דניאל/איך-לחשוב-כמו-סטיב-ג%27ובס.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/012291914.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">79</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">75</span>
+			<span class="">.24</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="35134"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סמית-דניאל/איך-לחשוב-כמו-סטיב-ג%27ובס.html">איך לחשוב כמו סטיב ג'ובס</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/104408/">
+								סמית דניאל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הכי הכי יותם">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פרסיבל-טום/הכי-הכי-יותם.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200017.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">66</span>
+			<span class="">.60</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">63</span>
+			<span class="">.27</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="210803"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פרסיבל-טום/הכי-הכי-יותם.html">הכי הכי יותם</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/135998/">
+								פרסיבל טום							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	</div>			</div>
+		</div>
+	</section>
+	<section class="bookSliderRow" data-slides="5" id="newProducts">
+		<div class="container">
+			<div class="row">
+				<div class="sectionHead">
+					<h3>
+						<a href="https://www.steimatzky.co.il/carousel/index/index/id/490/">רבי מכר</a>
+					</h3>
+					<div class="line"></div>
+					<div class="desc">רבי מכר</div>
+				</div>
+				<div class="bookSlider">
+	
+		<article class="book" data-name="אופל  גריי 2">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/ג%27יימס-א-ל/אופל--גריי-2.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011324083.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">58</span>
+			<span class="">.80</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211910"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/ג%27יימס-א-ל/אופל--גריי-2.html">אופל  גריי 2</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/90827/">
+								ג'יימס א ל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הטובה שבמרגלות">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/גרליס-אלכס/הטובה-שבמרגלות.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011324085.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211912"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/גרליס-אלכס/הטובה-שבמרגלות.html">הטובה שבמרגלות</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136265/">
+								גרליס אלכס							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הכריש">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/בן-דוד-מישקה/הכריש.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200015.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">44</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209916"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/בן-דוד-מישקה/הכריש.html">הכריש</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/93959/">
+								בן דוד מישקה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="פאני וגבריאל">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/סמל-נאוה/פאני-וגבריאל.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010033193.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">86</span>
+			<span class="">.40</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">82</span>
+			<span class="">.08</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="206317"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/סמל-נאוה/פאני-וגבריאל.html">פאני וגבריאל</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/104411/">
+								סמל נאוה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="קשר לאחד">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/באר-חיים/קשר-לאחד.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011562703.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">111</span>
+			<span class="">.60</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="208940"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/באר-חיים/קשר-לאחד.html">קשר לאחד</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/96456/">
+								באר חיים							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="המורה לעברית">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/ערד-מאיה/המורה-לעברית.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011414860.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">79</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="212595"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/ערד-מאיה/המורה-לעברית.html">המורה לעברית</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/111044/">
+								ערד מאיה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="סודות של חיים מופלאים">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/מייסנר-סוזן/סודות-של-חיים-מופלאים.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011414862.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="212666"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/מייסנר-סוזן/סודות-של-חיים-מופלאים.html">סודות של חיים מופלאים</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136452/">
+								מייסנר סוזן							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מבוך הרוחות">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/רואיס-סאפון-קרלוס/מבוך-הרוחות.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011374130.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="212000"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/רואיס-סאפון-קרלוס/מבוך-הרוחות.html">מבוך הרוחות</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/95864/">
+								רואיס סאפון קרלוס							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="שילה לוין מתה והיא חיה בניו יורק">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פארנט-גייל/שילה-לוין-מתה-והיא-חיה-בניו-יורק.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/MivchaMoadon_43.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010200021.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211906"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פארנט-גייל/שילה-לוין-מתה-והיא-חיה-בניו-יורק.html">שילה לוין מתה והיא חיה בניו יורק</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136263/">
+								פארנט גייל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="פתח גדול מלמטה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פלד-אסתר/פתח-גדול-מלמטה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/014620356.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="191762"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פלד-אסתר/פתח-גדול-מלמטה.html">פתח גדול מלמטה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/111177/">
+								פלד אסתר							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="חיסול ממוקד">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/בר-זהר-מיכאל-ומשעל-ניסים/חיסול-ממוקד.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011323884.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">106</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">23</span>
+			<span class="">.66</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="192210"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/בר-זהר-מיכאל-ומשעל-ניסים/חיסול-ממוקד.html">חיסול ממוקד</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/90681/">
+								בר זהר מיכאל ומשעל ניסים							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מדינה בכל מחיר">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/שגב-תום/מדינה-בכל-מחיר.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010073656.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">115</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">109</span>
+			<span class="">.44</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="212543"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/שגב-תום/מדינה-בכל-מחיר.html">מדינה בכל מחיר</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/86328/">
+								שגב תום							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="הערות שוליים מרתקות מן ההיסטוריה">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/מילטון-ג%27יילס/הערות-שוליים-מרתקות-מן-ההיסטוריה.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/010073589.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">88</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">83</span>
+			<span class="">.79</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="199305"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/מילטון-ג%27יילס/הערות-שוליים-מרתקות-מן-ההיסטוריה.html">הערות שוליים מרתקות מן ההיסטוריה</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/131634/">
+								מילטון ג'יילס							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="מה זה משנה ?">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/שרוט-טלי/מה-זה-משנה-?.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011374125.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">34</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211201"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/שרוט-טלי/מה-זה-משנה-?.html">מה זה משנה ?</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/136099/">
+								שרוט טלי							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="נתניהו / בן כספית">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/כספית-בן/נתניהו---בן-כספית.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                		                                <div class="item-label" style="background-image: url('https://steim.amazingcdn.space/labels/book50_2.png');"></div>
+	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/0/1/011324091.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">115</span>
+			<span class="">.20</span>
+		</span>
+	</span>
+</div>
+	<div class="price-box  sale" rel="price">
+		<span class="price-label">למועדון</span>
+		<span class="regular-price">
+		<span class="price">
+		  <span class="cur">₪</span>
+			<span class="big">109</span>
+			<span class="">.44</span>
+		</span>
+	</span>
+	</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="211918"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/כספית-בן/נתניהו---בן-כספית.html">נתניהו / בן כספית</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/94860/">
+								כספית בן							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	</div>			</div>
+		</div>
+	</section>
+	<section class="bookSliderRow" data-slides="5" id="newProducts">
+		<div class="container">
+			<div class="row">
+				<div class="sectionHead">
+					<h3>
+						<a href="https://www.steimatzky.co.il/carousel/index/index/id/497/">פריטי המוסיקה הנמכרים ביותר במחירים מיוחדים</a>
+					</h3>
+					<div class="line"></div>
+					<div class="desc">פריטי המוסיקה הנמכרים ביותר במחירים מיוחדים</div>
+				</div>
+				<div class="bookSlider">
+	
+		<article class="book" data-name="ריטה ניסים שקופים תקליטור">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/ריטה/ריטה-ניסים-שקופים-תקליטור.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108131368.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">39</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="206811"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/ריטה/ריטה-ניסים-שקופים-תקליטור.html">ריטה ניסים שקופים תקליטור</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83496/">
+								ריטה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="רותם כהן לא דמיינתי תקליטור">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/כהן-רותם/רותם-כהן-לא-דמיינתי-תקליטור.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/109820723.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">29</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="123016"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/כהן-רותם/רותם-כהן-לא-דמיינתי-תקליטור.html">רותם כהן לא דמיינתי תקליטור</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83406/">
+								כהן רותם							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="משה פרץ בחור חדש תקליטור">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/פרץ-משה/משה-פרץ-בחור-חדש-תקליטור.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/109820804.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">39</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="200864"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/פרץ-משה/משה-פרץ-בחור-חדש-תקליטור.html">משה פרץ בחור חדש תקליטור</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83476/">
+								פרץ משה							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              אין דירוגים                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="עדן בן זקן לזאת שניצחה תקליטור">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/בן-זקן-עדן/עדן-בן-זקן-לזאת-שניצחה-תקליטור.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108409126.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">39</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="207709"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/בן-זקן-עדן/עדן-בן-זקן-לזאת-שניצחה-תקליטור.html">עדן בן זקן לזאת שניצחה תקליטור</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/81915/">
+								בן זקן עדן							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="אדם עומר-אחרי כל השנים דיסק">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/עומר-אדם/אדם-עומר-אחרי-כל-השנים-דיסק.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108409043.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">39</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="191296"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/עומר-אדם/אדם-עומר-אחרי-כל-השנים-דיסק.html">אדם עומר-אחרי כל השנים דיסק</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83456/">
+								עומר אדם							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="דודו טסה בהופעה אלבום כפות תקליטור">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/טסה-דודו/דודו-טסה-בהופעה-אלבום-כפות-תקליטור.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108480161.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">49</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="209898"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/טסה-דודו/דודו-טסה-בהופעה-אלבום-כפות-תקליטור.html">דודו טסה בהופעה אלבום כפות תקליטור</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/112516/">
+								טסה דודו							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="קול ישראל מירושלים-הרגע 10 תקליטורים">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/שונים/קול-ישראל-מירושלים-הרגע-10-תקליטורים.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108130698.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">99</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="197909"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/שונים/קול-ישראל-מירושלים-הרגע-10-תקליטורים.html">קול ישראל מירושלים-הרגע 10 תקליטורים</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/112941/">
+								שונים							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	
+		<article class="book" data-name="רייכל- פסנתר">
+
+			<div class="inner">
+				<div class="product-hover">
+					<a href="https://www.steimatzky.co.il/עידן-רייכל/רייכל--פסנתר.html" title="" class="product-image">
+                                <span class="thumb">
+        	                                
+	                                <img class="" src="https://steim.amazingcdn.space/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/0/108131547.jpg"
+	                                     alt="">
+                                </span>
+					</a>
+					<div class="price-box " rel="price">
+	<span class="price-label">באתר</span>
+	<span class="regular-price">
+		<span class="price">
+			<span class="cur">₪</span>
+			<span class="big">57</span>
+			<span class="">.90</span>
+		</span>
+	</span>
+</div>
+					<div class="book-actions clearfix">
+
+													<button type="button" data-id="208165"
+							        class="button btn-addtocart">הוסף לסל								<span></span>
+							</button>
+												<!--<button type="button" class="button btn-wishlist"></button>-->
+					</div>
+
+				</div>
+				<div class="details">
+					<h4 class="bookTitle">
+						<a href="https://www.steimatzky.co.il/עידן-רייכל/רייכל--פסנתר.html">רייכל- פסנתר</a>
+					</h4>
+					<span class="bookAuthor">
+	                    <a href="https://www.steimatzky.co.il/authors/index/index/ids/83176/">
+								עידן רייכל							</a>
+                    </span>
+
+					<div class="ratings">
+					    <span>
+                              דירוג אחד                        </span>
+
+						<div class="rating-box">
+							<div class="rating"
+							     style="width:0%"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+	</div>			</div>
+		</div>
+	</section>
+    </div>
+    
+<footer id="siteFooter">
+	<div id="topFooter">
+		<div class="container">
+			<div class="row">
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<div id="mainFooter">
+		<div class="container footerTop">
+			<div class="footerRight col-sm-8">
+				<div class="row">
+					<nav class="col-sm-4">
+						<div class="mobile-collapsible">
+<h5>אודותינו</h5>
+<ul class="nav">
+<li><a href="/branches">סניפים</a></li>
+<li><a href="https://www.steimatzky.co.il/about">אודות&nbsp;סטימצקי</a></li>
+<li><a href="/steimatzkyb2b">המחלקה המוסדית</a></li>
+<li><a href="http://www.steimatzky-publishing.co.il/" target="_blank">הוצאה לאור</a></li>
+<li><a href="https://www.steimatzky.co.il/nugishut">נגישות</a></li>
+</ul>
+</div>					</nav>
+					<nav class="col-sm-4">
+						<div class="mobile-collapsible">
+<h5>מידע שימושי</h5>
+<ul class="nav">
+<li><a href="https://www.steimatzky.co.il/blog">בלוג סטימצקי</a></li>
+<li><a href="https://www.steimatzky.co.il/club_details">מועדון הסיפור שלי</a></li>
+<li><a href="https://www.steimatzky.co.il/customer-service">שירות לקוחות</a></li>
+<li><a href="https://www.steimatzky.co.il/contact">צור קשר</a></li>
+<li><a href="https://www.steimatzky.co.il/yeridim-page">ירידי סטימצקי</a></li>
+<li><a href="https://www.steimatzky.co.il/hvr" target="_blank">אירועים ושיתופי פעולה</a></li>
+<li><a href="https://www.praxellpayroll.com/Portal/dispatcher?service=gc_brand_login&amp;brandID=8282828&amp;lng=he" target="_blank">בדיקת יתרת כרטיס מתנה</a></li>
+<li><a href="JOBS">דרושים</a></li>
+</ul>
+</div>					</nav>
+					<nav class="col-sm-4">
+						<div class="mobile-collapsible">
+<h5>מידע לרוכשים באתר</h5>
+<ul class="nav">
+<li><a href="https://www.steimatzky.co.il/customer/account/">החשבון שלי</a></li>
+<li><a href="https://www.steimatzky.co.il/shipping-policy">מדיניות משלוחים</a></li>
+<li><a href="https://www.steimatzky.co.il/terms_club" target="_self">תקנונים</a></li>
+<li><a href="https://www.steimatzky.co.il/faq">שאלות ותשובות</a></li>
+<li><a href="https://www.steimatzky.co.il/return_policy">מדיניות החזרות מוצרים</a></li>
+<li><a href="https://www.steimatzky.co.il/privacy_policy">מדיניות הפרטיות</a></li>
+</ul>
+</div>					</nav>
+				</div>
+			</div>
+			<div class="footerLeft col-sm-4">
+				<div id="newsletterFooter">
+					<h5>מעוניינים להשאר מעודכנים?</h5>
+
+					
+    <form id="newsletterForm" action="https://www.steimatzky.co.il/newsletter/subscriber/new/"  method="post">
+        <input placeholder="הזינו כתובת דואל לקבלת עדכונים" type="text" name="email" id="newsletter" class="required-entry validate-email"/>
+        <input value="שלח" type="submit"/>
+
+        <div class="clearfix"></div>
+    </form>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletterForm');
+        //]]>
+    </script>
+
+				</div>
+				<div id="socialFooter">
+					<h5>עקבו אחרינו</h5>
+
+					<nav class="social-links">
+												<a id="fb-link" href="https://www.facebook.com/SteimatzkyMadaf.HaSfarim/" target="_blank"><span
+									class="icon-facebook">&nbsp;</span>
+						</a>
+						<!--
+
+						<a href="#" target="_blank"><span class="icon-googleplus">&nbsp;</span></a>
+						<a href="https://twitter.com/_steimatzky" target="_blank"><span class="icon-twitter">&nbsp;</span></a>
+						<a href="https://www.youtube.com/channel/UCUDPIRAGfdP3vsQnfaQgEhA" target="_blank"><span class="icon-youtube">&nbsp;</span></a>
+						<a href="https://www.instagram.com/steimatzky_israel/" target="_blank"><span class="icon-instagram">&nbsp;</span></a>
+						-->
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div class="container footerBottom">
+			<div class="col-sm-8 footerRight">
+				<img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/creditcards.png" alt="Allow CreditCards"/>
+				<img src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/emunsmallpng.png" alt="אמון הציבור"
+				     class="emunlogo"/>
+			</div>
+			<div class="col-sm-4 footerLeft">
+				<a href="http://www.amazing.co.il" target="_blank"
+				   title="Amazing E-commerce solutions">
+					<img
+							src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/images/logoamaz.png" alt="amazing.co.il"/>
+				</a>
+			</div>
+		</div>
+	</div>
+
+</footer>
+<!-- Anaraky GDRT v.1.0.9 script begin -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_tag_params = {
+	ecomm_pagetype: "home"
+};
+var google_conversion_id = 1000269633;
+var google_conversion_label = "FmzaCITVxXIQwc773AM";
+var google_custom_params = google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000269633/?value=0&amp;label=FmzaCITVxXIQwc773AM&amp;guid=ON&amp;script=0&amp;data=ecomm_pagetype%3Dhome"/>
+</div>
+</noscript>
+<!-- Anaraky GDRT script end -->
+    <script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1000269633;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000269633/?guid=ON&amp;script=0"/>
+	</div>
+</noscript>
+
+	<!-- Google Code for Remarketing Tag -->
+	<!--------------------------------------------------
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+	--------------------------------------------------->
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 834128470;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/834128470/?guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+<script type="text/javascript" src="https://www.steimatzky.co.il/skin/frontend/steimazki/default/access/ac.js?v=1518360787"></script>
+
+</div>
+</html>
