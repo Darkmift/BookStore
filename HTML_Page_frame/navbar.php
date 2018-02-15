@@ -1,3 +1,21 @@
+<?php
+$css_active_books = "";
+$css_active_clients = "";
+$css_active_purchase = "";
+switch ($GLOBALS['caller_page']) {
+    case 'Add_Books':
+        $css_active_books = 'class="active"';
+        break;
+    case 'Add_Clients':
+        $css_active_clients = 'class="active"';
+        break;
+    case 'Add_Purchase':
+        $css_active_purchase = 'class="active"';
+        break;
+}
+?>
+
+
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
@@ -11,9 +29,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="../Data_Creation/Add_Books.php">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li <?php echo $css_active_books ?>><a href="../Data_Creation/Add_Books.php">Add Book</a></li>
+                <li <?php echo $css_active_clients ?>><a href="../Data_Creation/Add_Clients.php">Add Client</a></li>
+                <li <?php echo $css_active_purchase ?>><a href="../Data_Creation/Add_Purchase.php">Purchases</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
