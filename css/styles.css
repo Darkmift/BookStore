@@ -178,3 +178,22 @@ body {
 }
 
 
+/**forms**/
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+form input {
+    width: 80%;
+    padding: 0.1em;
+    margin-bottom: 0.5em;
+    border: 0.1em solid #ccc;
+    border-radius: 0.2em;
+    color: #474747;
+}
+form input:focus {
+    outline: 0.1em solid #7ccc14;
+    background: #edfbda;
+}

@@ -15,8 +15,8 @@ header('Content-Type: text/html; charset=windows-1255');
         <link rel="stylesheet" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../css/styles.css">
         <link rel="stylesheet" href="../css/sticky-footer.css" >
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.js"></script>
-        <script src="js/scripts.js"></script>
+        <script src="../js/jquery.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/scripts.js"></script>
     </head>
     <body>
