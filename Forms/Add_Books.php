@@ -17,7 +17,7 @@ function frand($min, $max, $decimals = 0) {
     <div style="border-radius: 15px;" class="main-div">
         <h1><b>Add Book to Inventory</b></h1>
         <hr>
-        <form action="SQL_add_book.php" method="POST">
+        <form action="../Data_Creation/SQL_add_book.php" method="POST">
 
             <input type="text" name="Book_Name" placeholder=" Book name" required/>
             <input type="text" name="Author_Name" placeholder=" Author" required/>  

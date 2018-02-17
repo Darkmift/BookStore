@@ -1,5 +1,7 @@
 <?php
 
+header('Content-Type: text/html; charset=windows-1255');
+include 'functions.php';
 $GLOBALS['caller_page'] = basename(__FILE__, '.php');
 $Book_Name = $Author_Name = $Book_img_url = $Book_Year = $Book_price = "";
 //print_r($_POST);
@@ -24,18 +26,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             isset($_POST["Book_Year"]) &&
             isset($_POST["Book_price"])
     ) {
-        $Book_Name = iconv('Windows-1255', 'UTF-8', $_POST["Book_Name"]);
-        $Author_Name = iconv('Windows-1255', 'UTF-8', $_POST["Author_Name"]);
+        foreach ($_POST as $key => $value) {
+            $_POST[$key] = hebrew($value);
+        }
+        $Book_Name = $_POST["Book_Name"];
+        $Author_Name = $_POST["Author_Name"];
         $Book_img_url = $_POST["Book_img_url"];
         $Book_Year = $_POST["Book_Year"];
         $Book_price = $_POST["Book_price"];
-        write_to_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price);
+        book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price);
     } else {
         die('go away');
     }
 }
 
-function write_to_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
+function book_To_SQL444($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
     ///setup connection
     $connection = new mysqli('localhost', 'root', '', 'bookstore');
     if ($connection->connect_errno) {
@@ -45,23 +50,23 @@ function write_to_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book
     $sql = "
 	INSERT INTO 
             `books`(
+                    `price`,
                     `NAME`,
                     `author_name`,
-                    `price`,
                     `img_url`,
                     `year`
                     ) 
                     VALUES (
-                        '$Book_Name' ,
-                        '$Author_Name',
                         '$Book_price',
+                        '$Book_Name',
+                        '$Author_Name',
                         '$Book_img_url',
                         '$Book_Year'
-                    )";
+                    );";
     mysqli_set_charset($connection, "utf8");
     if ($connection->query($sql) === TRUE) {
         echo "New record created successfully";
     } else {
-        echo "Error: " . $sql . "<br>" . $connection->error;
+        echo "Error: " . $sql . "<hr>" . $connection->error . "<hr>" . $connection->errno;
     }
 }
