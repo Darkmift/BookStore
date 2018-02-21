@@ -8,7 +8,7 @@ function hebrew($param) {
     return $param;
 }
 
-function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
+function book_To_SQL444($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
     $servername = "localhost";
     $username = "root";
     $password = "";
@@ -36,7 +36,7 @@ function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_
                     VALUES (
                        '$Book_Name', '$Author_Name', '$Book_img_url', '$Book_Year', '$Book_price'
                     )";
-    
+
     $stmt = $conn->prepare($sql);
     //$stmt->bind_param("bbbbb", $Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price);
 

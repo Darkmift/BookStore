@@ -29,9 +29,9 @@ switch ($GLOBALS['caller_page']) {
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li <?php echo $css_active_books ?>><a href="../Data_Creation/Add_Books.php">Add Book</a></li>
-                <li <?php echo $css_active_clients ?>><a href="../Data_Creation/Add_Clients.php">Add Client</a></li>
-                <li <?php echo $css_active_purchase ?>><a href="../Data_Creation/Add_Purchase.php">Purchases</a></li>
+                <li <?php echo $css_active_books ?>><a href="../Forms/Add_Books.php">Add Book</a></li>
+                <li <?php echo $css_active_clients ?>><a href="../Forms/Add_Clients.php">Add Client</a></li>
+                <li <?php echo $css_active_purchase ?>><a href="../Forms/Add_Purchase.php">Purchases</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>
