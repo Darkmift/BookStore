@@ -1,4 +1,5 @@
 <?php
+
 //for hebrew encoding
 header('Content-Type: text/html; charset=Windows-1255');
 
@@ -18,7 +19,7 @@ function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_
 
 // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
-    //$conn->set_charset('UTF-8');
+
 // Check connection
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
@@ -38,6 +39,7 @@ function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_
 
     $stmt = $conn->prepare($sql);
     $stmt->bind_param("ssssd", $Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price);
+    $conn->set_charset('UTF-8');
 //validate query result
     if ($stmt->execute()) {
         echo "New record created successfully";
