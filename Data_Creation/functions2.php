@@ -35,6 +35,7 @@ function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_
                     `year`,
                     `price`
                     ) 
+
                     VALUES (?,?,?,?,?)";
 
     $stmt = $conn->prepare($sql);

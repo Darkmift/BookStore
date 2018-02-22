@@ -29,7 +29,7 @@ include '../HTML_Page_frame/header.php';
     <div style="border-radius: 15px;" class="main-div">
         <h1><b>Please add a book</b></h1>
         <hr>
-        <form action="SQL_add_client.php" method="POST">
+        <form action="../Data_Creation/SQL_add_client.php" method="POST">
             <input style="width:40%;" type="text" name="Client_Name_first" placeholder=" First Name" required/>
             <input style="width:40%;" type="text" name="Client_Name_last" placeholder=" Last Name" required/>
             <input style="width:70%;" type="text" name="Client_Phone" placeholder=" Phone" required/>

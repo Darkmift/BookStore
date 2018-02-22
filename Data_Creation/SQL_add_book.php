@@ -4,7 +4,8 @@ header('Content-Type: text/html; charset=windows-1255');
 include 'functions.php';
 $GLOBALS['caller_page'] = basename(__FILE__, '.php');
 $Book_Name = $Author_Name = $Book_img_url = $Book_Year = $Book_price = "";
-//print_r($_POST);
+var_dump($_POST);
+die();
 //validate post array
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     //check post array for empty values
@@ -40,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 
-function book_To_SQL444($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
+function book_To_SQL($Book_Name, $Author_Name, $Book_img_url, $Book_Year, $Book_price) {
     ///setup connection
     $connection = new mysqli('localhost', 'root', '', 'bookstore');
     if ($connection->connect_errno) {
